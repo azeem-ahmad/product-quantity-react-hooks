@@ -1,4 +1,6 @@
 # Product Quantity with React Hooks
+Open Link: [https://azeem-ahmad.github.io/product-quantity-react-hooks/](https://azeem-ahmad.github.io/product-quantity-react-hooks/)
+
 Here is `App.js` file:
 ```
 import React, {useState} from 'react';
