@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/product-quantity-react-hooks/static/css/main.243d46c4.chunk.css",
+    "main.js": "/product-quantity-react-hooks/static/js/main.4a4c7744.chunk.js",
+    "main.js.map": "/product-quantity-react-hooks/static/js/main.4a4c7744.chunk.js.map",
+    "runtime-main.js": "/product-quantity-react-hooks/static/js/runtime-main.fce368ee.js",
+    "runtime-main.js.map": "/product-quantity-react-hooks/static/js/runtime-main.fce368ee.js.map",
+    "static/js/2.3189992b.chunk.js": "/product-quantity-react-hooks/static/js/2.3189992b.chunk.js",
+    "static/js/2.3189992b.chunk.js.map": "/product-quantity-react-hooks/static/js/2.3189992b.chunk.js.map",
+    "static/js/3.f7a28b6e.chunk.js": "/product-quantity-react-hooks/static/js/3.f7a28b6e.chunk.js",
+    "static/js/3.f7a28b6e.chunk.js.map": "/product-quantity-react-hooks/static/js/3.f7a28b6e.chunk.js.map",
+    "index.html": "/product-quantity-react-hooks/index.html",
+    "static/css/main.243d46c4.chunk.css.map": "/product-quantity-react-hooks/static/css/main.243d46c4.chunk.css.map",
+    "static/js/2.3189992b.chunk.js.LICENSE.txt": "/product-quantity-react-hooks/static/js/2.3189992b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fce368ee.js",
+    "static/js/2.3189992b.chunk.js",
+    "static/css/main.243d46c4.chunk.css",
+    "static/js/main.4a4c7744.chunk.js"
+  ]
+}
