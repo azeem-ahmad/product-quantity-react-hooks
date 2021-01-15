@@ -1,5 +1,5 @@
-# Product Quantity / Increment Decrement - with React Hooks
-`App.js` file:
+# Product Quantity with React Hooks
+Here is `App.js` file:
 ```
 import React, {useState} from 'react';
 import './App.css';
